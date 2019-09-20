@@ -1,0 +1,53 @@
+body{
+    font-family: 'Roboto Mono', monospace;
+margin: 0;
+padding: 0;
+}
+.wrapper{
+    width: 70%;
+    margin: auto
+}
+a{
+    text-decoration: none;
+    
+
+}
+.logo{
+    float: left;
+}
+.li1{float:right;
+list-style: none;
+padding: 0px 15px;
+}
+.favorite{
+    background-image: url(https://blackrockdigital.github.io/startbootstrap-creative/img/bg-masthead.jpg)
+}
+.text{padding:290px 0px;
+text-align: center;
+}
+.text a{border: #f4623a}
+hr{width: 55px;
+border: 2px solid #f4623a;
+}
+
+.text h1{
+    color: #fff;
+    font-size: 52px;
+}
+.text h3{color: rgba(255,255,255,.75);
+padding-bottom: 20px}
+.icon{float: left;
+width: 25%;
+text-align: center;
+}
+.icon i{
+    color: #f4623a;
+    font-size: 50px;
+
+}
+.find{background-color: #f4623a;
+color: #fff;
+padding: 13px 27px;
+border-radius: 20px
+}
+.find:hover{background-color: #be3712}
